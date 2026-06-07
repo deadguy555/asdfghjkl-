@@ -33,7 +33,7 @@ body {
   min-width: 600px;
   overflow: hidden;
   
-  font-family: var(--font-family), sans-serif;
+  font-family: var(--font-family), Geist Mono;
   font-weight: 500;
   font-size: calc(var(--font-size) * var(--space-medium));
   background-color: var(--color-bg-base);
